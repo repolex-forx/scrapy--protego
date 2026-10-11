@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "protego",
+  "versions": [
+    {
+      "commit": "53d6df88ea74a29561d4c415d45ee77ddc86c1af",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:17:12.355112+00:00"
+    }
+  ]
+}
