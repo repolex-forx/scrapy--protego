@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/protego/commit/53d6df88ea74a29561d4c415d45ee77ddc86c1af",
       "git:hexsha": "53d6df88ea74a29561d4c415d45ee77ddc86c1af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T02:17:12.354559+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/protego/commit/794d11b6804fb442090de557c5aa7f1640fc0c32",
